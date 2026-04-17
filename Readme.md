@@ -5,3 +5,8 @@
 좀더 공부해야겠다고 생각하여 **한빛+**((구)한빛출판네트워크) 홈페이지에 들어가서  
 **이것이 취업을위한 코딩 테스트다 With파이썬** 한권을 구입하였다.  
 그리고 여기서 나의 첫번째 깃허브 프로젝트가 시작된다.
+
+문제출처 : 이것이 취업을위한 코딩 테스트다 With파이썬 - 저자 : 나동빈 & programmers
+
+https://www.hanbit.co.kr/store/books/look.php?p_code=B8945183661
+https://school.programmers.co.kr/
